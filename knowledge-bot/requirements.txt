@@ -1,11 +1,11 @@
 crewai
 crewai-tools
-langchain-huggingface
-langchain-chroma
+langchain-huggingface==0.0.3
+langchain-chroma==0.1.4
 langchain-text-splitters
 langchain-groq
 groq
-chromadb
+chromadb==0.5.23
 sentence-transformers
 python-dotenv
 litellm
@@ -13,3 +13,4 @@ pyvis
 nest-asyncio
 fastapi
 uvicorn
+tokenizers==0.19.1
