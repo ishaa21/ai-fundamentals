@@ -1,5 +1,5 @@
-crewai==0.80.0
-crewai-tools==0.14.0
+crewai
+crewai-tools
 langchain-huggingface
 langchain-chroma
 langchain-text-splitters
