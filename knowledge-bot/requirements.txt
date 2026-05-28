@@ -1,0 +1,15 @@
+crewai==0.80.0
+crewai-tools==0.14.0
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+langchain-groq
+groq
+chromadb
+sentence-transformers
+python-dotenv
+litellm
+pyvis
+nest-asyncio
+fastapi
+uvicorn
